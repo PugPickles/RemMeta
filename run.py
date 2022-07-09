@@ -2,6 +2,7 @@ import os
 from PIL import Image
 from PIL.ExifTags import TAGS
 
+
 pathIn = os.path.abspath("in")
 pathOut = os.path.abspath("out")
 
